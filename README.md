@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently in college project **Skin disease detection using machine learning approach**
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **NoSql**
 
 - 👯 I’m looking to collaborate on **Flutter Project**
 
